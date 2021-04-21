@@ -1,4 +1,5 @@
 red
+unicorn
 orange
 purpose
 green
@@ -6,3 +7,4 @@ white
 black
 yellow
 this is the color of rainbow.
+rainbow and unicorn are friend.
